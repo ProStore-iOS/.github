@@ -10,15 +10,15 @@
 **ProStore-iOS** is developing **ProStore**, the best alternative App Store for iOS.  
 We’re passionate about giving iOS users more freedom, choice, and easier sideloading.  
 
-👉 Main project: [ProStore](https://github.com/ProStore-iOS/ProStore)
+Our Main project: [ProStore](https://github.com/ProStore-iOS/ProStore)
 
 ---
 
 ## 📱 ProStore Features
-- ⚡ The Best Alternative App Store for iOS  
-- 🌐 Easy to use certificates and `.ipa` signer  
-- 🎨 Clean and modern UI  
-- 🛠️ Open-source iOS app  
+- The Best Alternative App Store for iOS  
+- Easy to use certificates and `.ipa` signer  
+- Clean and modern UI  
+- Open-source iOS app  
 
 ---
 
@@ -32,15 +32,15 @@ We’re passionate about giving iOS users more freedom, choice, and easier sidel
 
 ## 🤝 Contributing
 We love community involvement! If you’d like to contribute to **ProStore**, feel free to:
-1. ⭐ Star the repo
-2. 🐛 Report bugs
-3. ⚒️ Suggest features
-4. 🔧 Submit pull requests
+1. Star the repo
+2. Report bugs
+3. Suggest features
+4. Submit pull requests
 
 ---
 
 ## 🌍 Connect With Us
-- 📦 Main Repo: [ProStore](https://github.com/ProStore-iOS/ProStore)  
-- 🌐 Website: [ProStore-iOS.github.io](https://ProStore-iOS.github.io)  
+- Our Main Repo: [ProStore](https://github.com/ProStore-iOS/ProStore)  
+- Website: [ProStore-iOS.github.io](https://ProStore-iOS.github.io)  
 
 ---
