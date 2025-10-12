@@ -45,6 +45,6 @@ We love community involvement! If you’d like to contribute to **ProSign**, fee
 - Main Repo: [ProSign](https://github.com/ProStore-iOS/ProSign)  
 - Website: [ProStore-iOS.github.io](https://ProStore-iOS.github.io)  
 
-*Stay tuned for ProStore—the full iOS App Store experience! 🚀*
+*Stay tuned for ProStore - the full iOS App Store experience!*
 
 ---
