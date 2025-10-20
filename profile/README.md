@@ -1,7 +1,7 @@
 # 👋 Welcome to ProStore iOS!
 
 ![Platform](https://img.shields.io/badge/platform-iOS-blue)
-![License](https://img.shields.io/badge/license-MIT%20%26%20Apache%202.0-green)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
