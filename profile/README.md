@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 About Us
-**ProStore-iOS** is an iOS development organization focused on giving users more freedom, choice, and easier sideloading.  
-Our main active project is **ProSign**, the best on-device `.ipa` signer for iOS.  
+**ProStore iOS** is an iOS development organization focused on giving users more freedom, choice, and easier sideloading.  
+Our main active project is **ProStore**, the best sideloading app for iOS.  
 
 **ProStore**, our full alternative App Store, is currently in developement!  
 
@@ -15,15 +15,23 @@ View [ProStore](https://github.com/ProStore-iOS/ProStore)
 
 ---
 
-## 📱 ProSign Highlights
+## 📥 Install ProStore
+Install ProStore right now with our [Direct Installer](https://prostore.free.nf)!  
+Just click on the link above, select a signed certificate, and press the Download and Install buttons!
+
+---
+
+## 📱 ProStore Highlights
 - On-device `.ipa` signing for iOS  
+- Two click quick app installs  
+- Browse or search through thousands of apps  
 - Easy certificate management  
 - Clean and modern interface  
 - Open-source iOS app  
 
 ---
 
-## 📸 Sneak Peek - ProSign
+## 📸 Sneak Peek - [ProSign](https://github.com/ProStore-iOS/ProSign) (Our other amazing app)
 <p align="center">
   <img src="https://raw.githubusercontent.com/ProStore-iOS/ProSign/main/gallery/Screenshot1.png" width="300" />
   <img src="https://raw.githubusercontent.com/ProStore-iOS/ProSign/main/gallery/Screenshot2.png" width="300" />
@@ -42,7 +50,7 @@ We love community involvement! If you’d like to contribute to **ProStore**, fe
 ---
 
 ## 🌍 Connect With Us
-- Main Repo: [ProSign](https://github.com/ProStore-iOS/ProSign)  
-- Website: [ProStore-iOS.github.io](https://ProStore-iOS.github.io)  
+- Main Repo: [ProStore](https://github.com/ProStore-iOS/ProStore)  
+- Website: [ProStore-iOS.github.io](https://ProStore-iOS.github.io)
 
 ---
