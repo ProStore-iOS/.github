@@ -23,7 +23,7 @@ Just click on the link above, select a signed certificate, and press the Downloa
 
 ## 📱 ProStore Highlights
 - On-device `.ipa` signing for iOS  
-- Two click quick app installs  
+- Unlimited app installs  
 - Browse or search through thousands of apps  
 - Easy certificate management  
 - Clean and modern interface  
@@ -31,11 +31,12 @@ Just click on the link above, select a signed certificate, and press the Downloa
 
 ---
 
-## 📸 Sneak Peek - [ProSign](https://github.com/ProStore-iOS/ProSign) (Our other amazing app)
+## 📸 Sneak Peek
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProSign/main/gallery/Screenshot1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProSign/main/gallery/Screenshot2.png" width="300" />
-  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProSign/main/gallery/Screenshot3.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot3.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot3.png" width="300" />
 </p>
 
 ---
