@@ -9,8 +9,6 @@
 **ProStore iOS** is an iOS development organization focused on giving users more freedom, choice, and easier sideloading.  
 Our main active project is **ProStore**, the best sideloading app for iOS.  
 
-**ProStore**, our full alternative App Store, is currently in developement!  
-
 View [ProStore](https://github.com/ProStore-iOS/ProStore)
 
 ---
@@ -18,6 +16,14 @@ View [ProStore](https://github.com/ProStore-iOS/ProStore)
 ## 📥 Install ProStore
 Install ProStore right now with our [Direct Installer](https://prostore.free.nf)!  
 Just click on the link above, select a signed certificate, and press the Download and Install buttons!
+
+---
+
+## 🎯 Our Mission
+Our mission is to make sideloading easy for everyone, so no matter what your device, or experience, you can sideload with ease!  
+Our dream is to create these:  
+- **ProStore Gold** - An iOS app that is a cross between ProStore and SideStore, so you can install apps by Apple ID or by Enterprise/Dev cert.
+- **WebStore** - A web based version of ProStore and ProStore Gold so no revokes and it's accessible to everyone!
 
 ---
 
