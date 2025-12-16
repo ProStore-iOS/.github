@@ -14,7 +14,7 @@ View [ProStore](https://github.com/ProStore-iOS/ProStore)
 ---
 
 ## 📥 Install ProStore
-Install ProStore right now with our [Direct Installer](https://prostore-ios.github.io/web/)!  
+Install ProStore right now with our [Direct Installer](https://prostore-ios.github.io/)!  
 Just click on the link above, select a signed certificate, and press the Download and Install buttons!
 
 ---
