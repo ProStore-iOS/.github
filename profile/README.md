@@ -34,7 +34,7 @@ Just click on the link above, and follow the steps to get ProStore installed on 
   <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot1.png" width="300" />
   <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot2.png" width="300" />
   <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot3.png" width="300" />
-  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot3.png" width="300" />
+  <img src="https://raw.githubusercontent.com/ProStore-iOS/ProStore/main/gallery/Screenshot4.png" width="300" />
 </p>
 
 ---
