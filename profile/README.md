@@ -19,14 +19,6 @@ Just click on the link above, and follow the steps to get ProStore installed on 
 
 ---
 
-## 🎯 Our Mission
-Our mission is to make sideloading easy for everyone, so no matter what your device, or experience, you can sideload with ease!  
-Our dream is to create these:  
-- **ProStore Gold** - An iOS app that is a cross between ProStore and SideStore, so you can install apps by Apple ID or by Enterprise/Dev cert.
-- **WebStore** - A web based version of ProStore and ProStore Gold so no revokes and it's accessible to everyone!
-
----
-
 ## 📱 ProStore Highlights
 - On-device `.ipa` signing for iOS  
 - Unlimited app installs  
