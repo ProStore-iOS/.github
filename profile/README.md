@@ -52,5 +52,6 @@ We love community involvement! If you’d like to contribute to **ProStore**, fe
 - Main Repo: [ProStore](https://github.com/ProStore-iOS/ProStore)  
 - Website: [ProStore-iOS.github.io](https://ProStore-iOS.github.io)
 - Documentation: [ProStore-iOS.github.io/docs](https://ProStore-iOS.github.io/docs/)
+- Email: [NovaDev404@novadev.vip](mailto:NovaDev404@novadev.vip)
 
 ---
